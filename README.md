@@ -15,3 +15,7 @@ propriedade que precisamos alterar.<br>
 ➔ O código deve rodar em um laço que vai receber propriedades até a<br>
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso<br>
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.</p>
+
+<p>Esse print mostra como ficou o resultado do meu código.</p>
+
+<img width="500px" src="./PrintResultado.PNG">
